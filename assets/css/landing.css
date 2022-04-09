@@ -419,6 +419,7 @@ body .full-width {
         top: 2rem;
         right: 2rem;
         cursor: pointer;
+        text-align: center;
     }
 
     .close-menu-label:hover::after {
